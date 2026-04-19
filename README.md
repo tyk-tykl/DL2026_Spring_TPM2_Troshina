@@ -27,28 +27,28 @@ Wildberries — лидер по ассортименту и доступност
 
 ### BA-часть (/ba)
 
-- [1.1. functionality.md](ba/1.1. functionality.md) — Функционал и ЦА  
-- [1.2. process.md](ba/1.2. process.md) — Процесс оформления заказа  
+- [1.1. functionality.md](ba/1.1.functionality.md) — Функционал и ЦА  
+- [1.2. process.md](ba/1.2.process.md) — Процесс оформления заказа  
 - [activity_diagram.png](ba/activity_diagram.png) — UML-диаграмма  
-- [1.3. competitors.md](ba/1.3. competitors.md) — Конкуренты  
-- [1.4. pain_points.md](ba/1.4. pain_points.md) — Боли пользователей  
+- [1.3. competitors.md](ba/1.3.competitors.md) — Конкуренты  
+- [1.4. pain_points.md](ba/1.4.pain_points.md) — Боли пользователей  
 
 ### PM-часть (/pm)
 
-- [2.1. product_vision.md](pm/2.1. product_vision.md) — Product Vision  
-- [2.2. okr.md](pm/2.2. okr.md) — OKR  
-- [2.3. ai_feature.md](pm/2.3. ai_feature.md) — AI-функции  
-- [3.1. jtbd.md](pm/3.1. jtbd.md) — JTBD  
-- [3.2. data_analitics.md](pm/3.2. data_analitics.md) — Данные  
-- [3.3. hypothesis_validation.md](pm/3.3. hypothesis_validation.md) — Проверка гипотез  
-- [3.4. mvp_plan.md](pm/3.4. mvp_plan.md) — MVP  
-- [3.5. metrics.md](pm/3.5. metrics.md) — Метрики  
-- [3.6. risks.md](pm/3.6. risks.md) — Риски  
-- [4.1. stakeholder_questions.md](pm/4.1. stakeholder_questions.md)
+- [2.1. product_vision.md](pm/2.1.product_vision.md) — Product Vision  
+- [2.2. okr.md](pm/2.2.okr.md) — OKR  
+- [2.3. ai_feature.md](pm/2.3.ai_feature.md) — AI-функции  
+- [3.1. jtbd.md](pm/3.1.jtbd.md) — JTBD  
+- [3.2. data_analitics.md](pm/3.2.data_analitics.md) — Данные  
+- [3.3. hypothesis_validation.md](pm/3.3.hypothesis_validation.md) — Проверка гипотез  
+- [3.4. mvp_plan.md](pm/3.4.mvp_plan.md) — MVP  
+- [3.5. metrics.md](pm/3.5.metrics.md) — Метрики  
+- [3.6. risks.md](pm/3.6.risks.md) — Риски  
+- [4.1. stakeholder_questions.md](pm/4.1.stakeholder_questions.md)
 
 ### AI-часть (/ai)
 
-- [4.2. reflection.md](ai/4.2. reflection.md) — Рефлексия использования AI  
+- [4.2. reflection.md](ai/4.2.reflection.md) — Рефлексия использования AI  
 
 ## MVP (3 месяца)
 
